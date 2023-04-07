@@ -3,6 +3,7 @@ import { useState, useEffect } from "react";
 import { API_KEY } from "../../config/config";
 import { Link } from "react-router-dom";
 
+
 export default function Home(){
 
     const image_path = "https://image.tmdb.org/t/p/w500/";
